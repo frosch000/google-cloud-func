@@ -1,0 +1,19 @@
+{
+  "name": "google-cloud-func",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frosch000/google-cloud-func.git"
+  },
+  "author": "Felix Gillich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frosch000/google-cloud-func/issues"
+  },
+  "homepage": "https://github.com/frosch000/google-cloud-func#readme"
+}
